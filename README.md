@@ -17,3 +17,10 @@ $ pip -r requirements.txt
 $ GITHUB_TOKEN=[enter GH token here] python3 stats.py
 ```
 
+## Contributing
+
+PRs and Issues welcome! What stats would you like to see more of?
+
+## License
+
+This code is released under the MIT license.
