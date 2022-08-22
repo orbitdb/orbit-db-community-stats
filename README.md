@@ -8,7 +8,7 @@ Written in Python 3 using the [PyGithub](https://github.com/PyGithub/PyGithub) l
 ```bash
 $ python3 -m venv venv
 $ source ./venv/bin/activate
-$ pip -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Usage
